@@ -19,4 +19,14 @@ git commit -a -m "message"------------this will only be used for those files who
 
 
 
+### use below commands for only once when pushing data for the first time
+
+git branch -M main
+git remote add origin https://github.com/RicArora1991/gitsessionbatch_20.git
+git push -u origin main
+
+
+
+
+
 
